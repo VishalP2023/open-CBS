@@ -1,0 +1,10 @@
+{
+	"name":"Cash Flow report",
+	"label":"Cash Flow report",
+	"point":"REPORTS",
+	"group":"ACCOUNTING",
+	"fields":[
+		{"fieldType": "DATE", "name":"ddate", "caption":"Date", "required": true, "unique": false, "order":1, "defaultValue": null, "extra": {"time":"true"}},
+		{"fieldType": "LOOKUP", "name":"tillId", "caption":"Till", "required": true, "unique": false, "order":2, "defaultValue": 0, "extra": {"key":"tills"}}
+	]
+}

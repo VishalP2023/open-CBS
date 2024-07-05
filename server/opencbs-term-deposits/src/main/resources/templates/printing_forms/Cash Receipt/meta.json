@@ -1,0 +1,5 @@
+{
+	"name":"Cash Receipt",
+	"label":"Cash Receipt",
+	"point":"LOAN_EVENT"
+}
