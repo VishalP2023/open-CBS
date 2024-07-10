@@ -1,0 +1,5 @@
+{
+	"name":"deposit_withdraw_receipt",
+    "label":"Deposit withdraw receipt",
+	"point":"DEPOSIT_CA"
+}

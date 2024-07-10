@@ -1,0 +1,12 @@
+{
+	"name":"Active Loans report",
+	"label":"Active Loans report",
+	"point":"REPORTS",
+	"group":"OPERATIONAL",
+	"fields":[
+		{"fieldType": "DATE", "name":"ddate", "caption":"Date", "required": true, "unique": false, "order":1, "defaultValue": null, "extra": {"time":"true"}},
+		{"fieldType": "LOOKUP", "name":"currencyId", "caption":"Currency", "required": false, "unique": false, "order":2, "defaultValue": 0, "extra": {"key":"currencies"}},
+		{"fieldType": "LOOKUP", "name":"branchId", "caption":"Branch", "required": false, "unique": false, "order":3, "defaultValue": 0, "extra": {"key":"branches"}},
+		{"fieldType": "LOOKUP", "name":"userId", "caption":"User", "required": false, "unique": false, "order":4, "defaultValue": 0, "extra": {"key":"users"}}
+	]
+}
