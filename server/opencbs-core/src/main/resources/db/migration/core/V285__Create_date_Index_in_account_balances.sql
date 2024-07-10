@@ -1,1 +1,0 @@
-create index if not exists account_balances_date_index on account_balances(date);

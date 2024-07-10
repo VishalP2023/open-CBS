@@ -1,1 +1,0 @@
-alter table savings_accounts add constraint type_saving_id_unique unique (type, saving_id);

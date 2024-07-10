@@ -1,1 +1,0 @@
-alter table day_closures alter column error_message type text using error_message::text;

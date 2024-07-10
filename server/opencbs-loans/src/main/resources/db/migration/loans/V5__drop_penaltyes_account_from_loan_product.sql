@@ -1,1 +1,0 @@
-delete from loan_products_accounts where type in ('WRITE_OFF_PENALTY','PENALTY_INCOME','PENALTY_ACCRUAL');

@@ -1,1 +1,0 @@
-alter table loan_applications add column status varchar (200) not null;

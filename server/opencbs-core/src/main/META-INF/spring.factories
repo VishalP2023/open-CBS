@@ -1,1 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.opencbs.core.configs.GeneralConfig,com.opencbs.core.configs.WebMvcConfig

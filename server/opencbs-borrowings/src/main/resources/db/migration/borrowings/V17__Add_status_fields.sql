@@ -1,1 +1,0 @@
-alter table borrowing_products add column status varchar(10) default 'ACTIVE'

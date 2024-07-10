@@ -1,1 +1,0 @@
-UPDATE branches SET name = 'DEFAULT BRANCH' WHERE name = 'Default'

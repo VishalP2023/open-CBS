@@ -1,1 +1,0 @@
-alter table analytics_active_loans alter column calculated_date type date;

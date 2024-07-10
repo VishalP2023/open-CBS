@@ -1,1 +1,0 @@
-alter table day_closure_contracts rename day_closure_container_type to process_type;

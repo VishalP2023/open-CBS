@@ -1,1 +1,0 @@
-create sequence borrowing_event_group_key;

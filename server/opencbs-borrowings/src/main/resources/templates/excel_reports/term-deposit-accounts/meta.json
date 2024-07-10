@@ -1,9 +1,0 @@
-{
-	"name":"term_deposit_accounts",
-	"label":"Term deposit accounts",
-	"point":"REPORTS",
-	"group":"OPERATIONAL",
-	"fields":[
-		{"fieldType": "DATE", "name":"date", "caption":"Date", "required": true, "unique": false, "order":1, "defaultValue": null, "extra": {"time":"false"}}
-	]
-}

@@ -1,1 +1,0 @@
-alter table accounting_entries drop column event_id;

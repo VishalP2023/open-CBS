@@ -1,1 +1,0 @@
-alter table request add column contract_type varchar(255);
